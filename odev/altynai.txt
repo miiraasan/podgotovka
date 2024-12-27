@@ -1,0 +1,319 @@
+1. During the execution of the instructions, a copy of the instructions is placed in the ______  
+a) Register  
+b) RAM  
+c) System heap  
+d) Cache  
+
+**Correct Answer:** d) Cache  
+
+2. For the execution of the same instruction, which processor is faster?  
+a) A  
+b) B  
+c) Both take the same time  
+d) Insufficient information  
+
+**Correct Answer:** a) A  
+
+3. A processor performing fetch or decoding of different instructions during the execution of another instruction is called ______  
+a) Super-scaling  
+b) Pipe-lining  
+c) Parallel Computation  
+d) None of the mentioned  
+
+**Correct Answer:** b) Pipe-lining  
+
+4. For a given finite number of instructions to be executed, which architecture of the processor provides for faster execution?  
+a) ISA  
+b) ANSA  
+c) Super-scalar  
+d) All of the mentioned  
+
+**Correct Answer:** c) Super-scalar  
+
+5. The clock rate of the processor can be improved by _________  
+a) Improving the IC technology of the logic circuits  
+b) Reducing the amount of processing done in one step  
+c) By using the overclocking method  
+d) All of the mentioned  
+
+**Correct Answer:** d) All of the mentioned  
+
+6. An optimizing Compiler does _________  
+a) Better compilation of the given piece of code  
+b) Takes advantage of the type of processor and reduces its process time  
+c) Does better memory management  
+d) None of the mentioned  
+
+**Correct Answer:** b) Takes advantage of the type of processor and reduces its process time  
+
+7. The ultimate goal of a compiler is to ________  
+a) Reduce the clock cycles for a programming task  
+b) Reduce the size of the object code  
+c) Be versatile  
+d) Be able to detect even the smallest of errors  
+
+**Correct Answer:** a) Reduce the clock cycles for a programming task  
+
+8. SPEC stands for _______  
+a) Standard Performance Evaluation Code  
+b) System Processing Enhancing Code  
+c) System Performance Evaluation Corporation  
+d) Standard Processing Enhancement Corporation  
+
+**Correct Answer:** c) System Performance Evaluation Corporation  
+
+9. As of 2000, the reference system to find the performance of a system is _____  
+a) Ultra SPARC 10  
+b) SUN SPARC  
+c) SUN II  
+d) None of the mentioned  
+
+**Correct Answer:** a) Ultra SPARC 10  
+
+10. When performing a looping operation, the instruction gets stored in the ______  
+a) Registers  
+b) Cache  
+c) System Heap  
+d) System stack  
+
+**Correct Answer:** b) Cache  
+
+11. The average number of steps taken to execute the set of instructions can be made to be less than one by following _______  
+a) ISA  
+b) Pipe-lining  
+c) Super-scaling  
+d) Sequential  
+
+**Correct Answer:** c) Super-scaling  
+
+12. If a processor clock is rated as 1250 million cycles per second, then its clock period is ________  
+a) 1.9 * 10⁻¹⁰ sec  
+b) 1.6 * 10⁻⁹ sec  
+c) 1.25 * 10⁻¹⁰ sec  
+d) 8 * 10⁻¹⁰ sec  
+
+**Correct Answer:** d) 8 * 10⁻¹⁰ sec  
+
+13. If the instruction, Add R1, R2, R3 is executed in a system that is pipelined, then the value of S is ______  
+a) 3  
+b) ~2  
+c) ~1  
+d) 6  
+
+**Correct Answer:** c) ~1  
+
+14. CISC stands for _______  
+a) Complete Instruction Sequential Compilation  
+b) Computer Integrated Sequential Compiler  
+c) Complex Instruction Set Computer  
+d) Complex Instruction Sequential Compilation  
+
+**Correct Answer:** c) Complex Instruction Set Computer  
+
+15. As of 2000, the reference system to find the SPEC rating is built with _____ Processor.  
+a) Intel Atom SPARC 300MHz  
+b) Ultra SPARC-IIi 300MHz  
+c) AMD Neutrino series  
+d) ASUS A series 450 MHz  
+
+**Correct Answer:** b) Ultra SPARC-IIi 300MHz  
+
+16. The format usually used to store data is ______  
+a) BCD  
+b) Decimal  
+c) Hexadecimal  
+d) Octal  
+
+**Correct Answer:** a) BCD  
+
+17. The 8-bit encoding format used to store data in a computer is ______  
+a) ASCII  
+b) EBCDIC  
+c) ANCI  
+d) USCII  
+
+**Correct Answer:** b) EBCDIC  
+
+18. A source program is usually in _______  
+a) Assembly language  
+b) Machine-level language  
+c) High-level language  
+d) Natural language  
+
+**Correct Answer:** c) High-level language  
+
+19. Which memory device is generally made of semiconductors?  
+a) RAM  
+b) Hard-disk  
+c) Floppy disk  
+d) CD disk  
+
+**Correct Answer:** a) RAM  
+
+20. The small extremely fast, RAMs are called _______  
+a) Cache  
+b) Heaps  
+c) Accumulators  
+d) Stacks  
+
+**Correct Answer:** a) Cache  
+
+21. The ALU makes use of _______ to store the intermediate results.  
+a) Accumulators  
+b) Registers  
+c) Heap  
+d) Stack  
+
+**Correct Answer:** a) Accumulators  
+
+22. The control unit controls other units by generating ___________  
+a) Control signals  
+b) Timing signals  
+c) Transfer signals  
+d) Command signals  
+
+**Correct Answer:** a) Control signals  
+
+23. ______ are numbers and encoded characters, generally used as operands.  
+a) Input  
+b) Data  
+c) Information  
+d) Stored Values  
+
+**Correct Answer:** b) Data  
+
+24. The input devices can send information to the processor ______  
+a) When the SIN status flag is set  
+b) When the data arrives regardless of the SIN flag  
+c) Neither of the cases  
+d) Either of the cases  
+
+**Correct Answer:** a) When the SIN status flag is set  
+
+25. ______ bus structure is usually used to connect I/O devices.  
+a) Single bus  
+b) Multiple bus  
+c) Star bus  
+d) Rambus  
+
+**Correct Answer:** a) Single bus  
+
+26. The I/O interface required to connect the I/O device to the bus consists of ______  
+a) Address decoder and registers  
+b) Control circuits  
+c) Address decoder, registers, and Control circuits  
+d) Only Control circuits  
+
+**Correct Answer:** c) Address decoder, registers, and Control circuits  
+
+27. To reduce the memory access time, we generally make use of ______  
+a) Heaps  
+b) Higher capacity RAMs  
+c) SDRAMs  
+d) Cache  
+
+**Correct Answer:** d) Cache  
+
+28. ______ is generally used to increase the apparent size of physical memory.  
+a) Secondary memory  
+b) Virtual memory  
+c) Hard-disk  
+d) Disks  
+
+**Correct Answer:** b) Virtual memory  
+
+29. MFC stands for ___________  
+a) Memory Format Caches  
+b) Memory Function Complete  
+c) Memory Find Command  
+d) Mass Format Command  
+
+**Correct Answer:** b) Memory Function Complete  
+
+30. The time delay between two successive initiations of memory operation _______  
+a) Memory access time  
+b) Memory search time  
+c) Memory cycle time  
+d) Instruction delay  
+
+**Correct Answer:** c) Memory cycle time  
+
+31. The decoded instruction is stored in ______  
+a) IR  
+b) PC  
+c) Registers  
+d) MDR  
+
+**Correct Answer:** a) IR  
+
+32. The instruction -> Add LOCA, R0 does _______  
+a) Adds the value of LOCA to R0 and stores in the temp register  
+b) Adds the value of R0 to the address of LOCA  
+c) Adds the values of both LOCA and R0 and stores it in R0  
+d) Adds the value of LOCA with a value in accumulator and stores it in R0  
+
+**Correct Answer:** c) Adds the values of both LOCA and R0 and stores it in R0  
+
+33. Which registers can interact with the secondary storage?  
+a) MAR  
+b) PC  
+c) IR  
+d) R0  
+
+**Correct Answer:** a) MAR  
+
+34. During the execution of a program, which gets initialized first?  
+a) MDR  
+b) IR  
+c) PC  
+d) MAR  
+
+**Correct Answer:** c) PC  
+
+35. Which of the registers of the processor is connected to the Memory Bus?  
+a) PC  
+b) MAR  
+c) IR  
+d) Both PC and MAR  
+
+**Correct Answer:** b) MAR  
+
+36. ISP stands for _________  
+a) Instruction Set Processor  
+b) Information Standard Processing  
+c) Interchange Standard Protocol  
+d) Interrupt Service Procedure  
+
+**Correct Answer:** a) Instruction Set Processor  
+
+37. The internal components of the processor are connected by _______  
+a) Processor intra-connectivity circuitry  
+b) Processor bus  
+c) Memory bus  
+d) Rambus  
+
+**Correct Answer:** b) Processor bus  
+
+38. ______ is used to choose between incrementing the PC or performing ALU operations.  
+a) Conditional codes  
+b) Multiplexer  
+c) Control unit  
+d) None of the mentioned  
+
+**Correct Answer:** b) Multiplexer  
+
+39. The registers, ALU, and the interconnection between them are collectively called as _____  
+a) Process route  
+b) Information trail  
+c) Information path  
+d) Data path  
+
+**Correct Answer:** d) Data path  
+
+40. _______ is used to store data in registers.  
+a) D flip flop  
+b) JK flip flop  
+c) RS flip flop  
+d) None of the mentioned  
+
+**Correct Answer:** a) D flip flop  
